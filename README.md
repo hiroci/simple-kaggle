@@ -1,2 +1,2 @@
-# simple-kaggle-
+# simple-kaggle
 Simple Kaggle Datasets 
